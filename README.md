@@ -6,5 +6,7 @@
 - 📢 How to reach me:
   - Email: [rakeshputakala@gmail.com](mailto:rakeshputakala@gmail.com)
   - LinkedIn: [linkedin.com/in/venkatarakesh25](https://linkedin.com/in/venkatarakesh25)
-  - GitHub: [github.com/rakeshputakala](https://github.com/rakeshputakala)
+  - Hackerrank: [hackerrank.com/profile/rakeshputakala](https://www.hackerrank.com/profile/rakeshputakala)
+  - LeetCode: [leetcode.com/u/NagaVenkataRakeshPutakala](https://leetcode.com/u/NagaVenkataRakeshPutakala)
+
 
